@@ -11,3 +11,4 @@ Colons can be used to align columns.
 | ------------- |:------------------------:|-- -----:|
 | Drought Index | Doi: 10.1002/joc.6860d   |  Code 1 |
 | Streamflow    | doi:doi:10.3390/w11061307|  Code 2 |
+[![DOI](https://zenodo.org/badge/810527533.svg)](https://zenodo.org/doi/10.5281/zenodo.11508517)
